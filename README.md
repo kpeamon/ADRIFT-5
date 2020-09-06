@@ -1,5 +1,5 @@
 # ADRIFT-5
-Modified ADRIFT 5 library files:
+Library files and other stuff related to ADRIFT 5:
 1. Danish Standard Library V3
 2. Manual for Danish Standard Library
 3. Improved Time system for ADRIFT 5
