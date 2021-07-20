@@ -1,7 +1,7 @@
 # ADRIFT-5
 Library files and other stuff related to ADRIFT 5:
-1. Combined Library Release 2.1 (English improved Standard Library)
-2. Danish Standard Library V3
+1. Combined Library Release 3.0 (English improved Standard Library)
+2. Danish Standard Library V4
 3. Manual for Danish Standard Library
 4. Improved Time system for ADRIFT 5
 5. Two-word parser library (The Verb-Noun Library)
