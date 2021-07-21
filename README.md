@@ -1,5 +1,5 @@
 # ADRIFT-5
-Library files and other stuff related to ADRIFT 5:
+Library files and other stuff related to ADRIFT 5 (an interactive fiction tool for writing text adventures):
 1. Combined Library Release 3.0 (English improved Standard Library)
 2. Danish Standard Library V4
 3. Manual for Danish Standard Library
